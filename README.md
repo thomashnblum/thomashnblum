@@ -1,8 +1,6 @@
 # Thomas Blum
 
-Desenvolvedor em formação, designer gráfico e criativo independente baseado em São Mateus do Sul, Paraná.
-
-Trabalho com design, produção musical e impressão DTF há anos. A programação entrou na minha vida como uma extensão natural disso — uma nova ferramenta para construir coisas com intenção e estética.
+Desenvolvedor em formação, autodidata, baseado em São Mateus do Sul, Paraná.
 
 Sou autodidata. Não venho de uma formação técnica formal em desenvolvimento, mas aprendo de forma consistente e deliberada: estudando fundamentos, lendo documentação, errando, refatorando. Em paralelo, uso ferramentas de IA e vibe coding para prototipar e entregar projetos reais enquanto ainda estou aprendendo — porque acredito que construir é a melhor forma de entender.
 
@@ -41,3 +39,7 @@ Um quiz interativo sobre filosofia, integrado à API do Gemini para geração di
 
 - Email: thomas.n.blum@gmail.com
 - Localização: São Mateus do Sul, PR — Brasil
+
+---
+
+*Fora da programação, atuo com design gráfico, produção musical e impressão DTF.*
