@@ -1,6 +1,6 @@
 # Thomas Blum
 
-Desenvolvedor em formação, autodidata, baseado em São Mateus do Sul, Paraná.
+Desenvolvedor em formação, baseado em São Mateus do Sul, Paraná.
 
 Sou autodidata. Não venho de uma formação técnica formal em desenvolvimento, mas aprendo de forma consistente e deliberada: estudando fundamentos, lendo documentação, errando, refatorando. Em paralelo, uso ferramentas de IA e vibe coding para prototipar e entregar projetos reais enquanto ainda estou aprendendo — porque acredito que construir é a melhor forma de entender.
 
